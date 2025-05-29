@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpie1982
-- 👀 I’m interested in html/css/javascript
-- 🌱 I’m currently learning pyton
+- 👀 I’m interested in html/css/javascript/c++
+- 🌱 I’m currently learning other programming languages and other stuff
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me send a email o call me
 
