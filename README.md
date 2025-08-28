@@ -14,6 +14,7 @@ Soy un desarrollador apasionado por el código, con un enfoque en el **desarroll
 ### 👀 Intereses:
 - **Desarrollo Web:** HTML, CSS y JavaScript.
 - **Programación de Sistemas:** Dominio de C++ para construir software robusto y eficiente.
+- - **Herramientas de Desarrollo:** Interesado en explorar y dominar nuevas herramientas.
 
 ---
 
