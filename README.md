@@ -49,5 +49,5 @@ Soy un desarrollador apasionado por el código, con un enfoque en el **desarroll
 
 ### Contacto
 [![Email](https://img.shields.io/badge/EMAIL-jpie1982@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpie1982@gmail.com)
-[![CodePen](https://img.shields.io/badge/CodePen-sbianchi-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jpie1982)
+[![CodePen](https://img.shields.io/badge/CodePen-jpie1982-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jpie1982)
 
